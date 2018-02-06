@@ -1,0 +1,11 @@
+{
+    "name": "codeinaction-user-area",
+    "description": "#codeinaction user area!",
+    "version": "0.0.01",
+    "dependencies": {
+        "jsonwebtoken": "",
+        "express": "",
+        "body-parser": "",
+        "bcrypt": ""
+    }
+}
