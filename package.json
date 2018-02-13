@@ -5,6 +5,7 @@
     "dependencies": {
         "jsonwebtoken": "",
         "express": "",
+        "pg": "",
         "body-parser": "",
         "bcrypt": ""
     }
